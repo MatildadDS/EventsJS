@@ -1,0 +1,14 @@
+#id1, #id2, #id3, #id4, #id5, #id6, #id7 {
+
+	width: 500px;
+	padding: 30px;
+	margin: 30px auto;
+} 
+
+#id1{background: red;}
+#id2{background: green;}
+#id3{background: blue;}
+#id4{background: orange;}
+#id5{background: purple;}
+#id6{background: brown;}
+#id7{background: tomato;}
